@@ -1,0 +1,1437 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-08-28 17:14+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CostsController.php:58;59;84;85
+#: Controller/GroupsController.php:55;56;80;81
+#: Controller/LogsController.php:58;59;84;85
+#: Controller/MedicsController.php:59;60;89;90
+#: Controller/MovimentationsController.php:55;56;81;82
+#: Controller/MovimentationsProductsController.php:58;59;85;86
+#: Controller/PatientsController.php:58;59;84;85
+#: Controller/PaymentMethodsController.php:55;56;80;81
+#: Controller/PlansController.php:55;56;80;81
+#: Controller/ProductsController.php:55;56;81;82
+#: Controller/ReportsController.php:58;59;84;85
+#: Controller/RolesController.php:55;56;80;81
+#: Controller/SchedulesController.php:58;59;85;86
+#: Controller/SchedulesSpecialitiesMedicsController.php:58;59;86;87
+#: Controller/SpecialitiesController.php:67;68;93;94
+#: Controller/SpecialitiesMedicsController.php:58;59;86;87
+#: Controller/StatusSchedulesController.php:55;56;80;81
+#: Controller/UsersController.php:58;59;84;85
+msgid "The {0} has been saved."
+msgstr "O {0} foi salvo."
+
+#: Controller/CostsController.php:63;89
+#: Controller/GroupsController.php:60;85
+#: Controller/LogsController.php:63;89
+#: Controller/MedicsController.php:64;94
+#: Controller/MovimentationsController.php:60;86
+#: Controller/MovimentationsProductsController.php:63;90
+#: Controller/PatientsController.php:63;89
+#: Controller/PaymentMethodsController.php:60;85
+#: Controller/PlansController.php:60;85
+#: Controller/ProductsController.php:60;86
+#: Controller/ReportsController.php:63;89
+#: Controller/RolesController.php:60;85
+#: Controller/SchedulesController.php:63;90
+#: Controller/SchedulesSpecialitiesMedicsController.php:63;91
+#: Controller/SpecialitiesController.php:72;98
+#: Controller/SpecialitiesMedicsController.php:63;91
+#: Controller/StatusSchedulesController.php:60;85
+#: Controller/UsersController.php:63;89
+msgid "The {0} could not be saved. Please, try again."
+msgstr "O {0} não pode ser salvo. Por favor, tente novamente."
+
+#: Controller/CostsController.php:108;109
+msgid "The cost has been deleted."
+msgstr "O custo foi deletado."
+
+#: Controller/CostsController.php:111
+msgid "The cost could not be deleted. Please, try again."
+msgstr "O custo não pode ser deletado."
+
+#: Controller/GroupsController.php:103;104
+msgid "The group has been deleted."
+msgstr "O grupo foi deletado."
+
+#: Controller/GroupsController.php:106
+msgid "The group could not be deleted. Please, try again."
+msgstr "O grupo não pode ser deletado"
+
+#: Controller/LogsController.php:108;109
+msgid "The log has been deleted."
+msgstr "O log foi deletado"
+
+#: Controller/LogsController.php:111
+msgid "The log could not be deleted. Please, try again."
+msgstr "O log não pode ser deletado"
+
+#: Controller/MedicsController.php:113;114
+msgid "The medic has been deleted."
+msgstr "O médico foi deletado."
+
+#: Controller/MedicsController.php:116
+msgid "The medic could not be deleted. Please, try again."
+msgstr "O médico não pode ser deletado."
+
+#: Controller/MovimentationsController.php:105;106
+msgid "The movimentation has been deleted."
+msgstr "A movimentação foi deletada."
+
+#: Controller/MovimentationsController.php:108
+msgid "The movimentation could not be deleted. Please, try again."
+msgstr "A movimentação não pode ser deletada."
+
+#: Controller/MovimentationsProductsController.php:110;111
+msgid "The movimentations product has been deleted."
+msgstr "A movimentação do produto foi deletada."
+
+#: Controller/MovimentationsProductsController.php:113
+msgid "The movimentations product could not be deleted. Please, try again."
+msgstr "A movimentação do produto não pode ser deletada."
+
+#: Controller/PatientsController.php:108;109
+msgid "The patient has been deleted."
+msgstr "O paciente foi deletado."
+
+#: Controller/PatientsController.php:111
+msgid "The patient could not be deleted. Please, try again."
+msgstr "O paciente não pode ser deletado."
+
+#: Controller/PaymentMethodsController.php:103;104
+msgid "The payment method has been deleted."
+msgstr "O método de pagamento foi deletado."
+
+#: Controller/PaymentMethodsController.php:106
+msgid "The payment method could not be deleted. Please, try again."
+msgstr "O método de pagamento não pode ser deletado."
+
+#: Controller/PlansController.php:103;104
+msgid "The plan has been deleted."
+msgstr "O plano foi deletado."
+
+#: Controller/PlansController.php:106
+msgid "The plan could not be deleted. Please, try again."
+msgstr "O plano não pode ser deletado."
+
+#: Controller/ProductsController.php:105;106
+msgid "The product has been deleted."
+msgstr "O produto foi deletado."
+
+#: Controller/ProductsController.php:108
+msgid "The product could not be deleted. Please, try again."
+msgstr "O produto não pode ser deletado."
+
+#: Controller/ReportsController.php:108;109
+msgid "The report has been deleted."
+msgstr "O laudo foi deletado."
+
+#: Controller/ReportsController.php:111
+msgid "The report could not be deleted. Please, try again."
+msgstr "O laudo não pode ser deletado."
+
+#: Controller/RolesController.php:103;104
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:106
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SchedulesController.php:110;111
+msgid "The schedule has been deleted."
+msgstr "O agendamento foi deletado."
+
+#: Controller/SchedulesController.php:113
+msgid "The schedule could not be deleted. Please, try again."
+msgstr "O agendamento não pode ser deletado."
+
+#: Controller/SchedulesSpecialitiesMedicsController.php:112;113
+msgid "The schedules specialities medic has been deleted."
+msgstr "A especialidade do agendamento médico foi deletada."
+
+#: Controller/SchedulesSpecialitiesMedicsController.php:115
+msgid "The schedules specialities medic could not be deleted. Please, try again."
+msgstr "A especialidade do agendamento médico não pode ser deletada."
+
+#: Controller/SpecialitiesController.php:117;118
+msgid "The speciality has been deleted."
+msgstr "A especialidade foi deletada."
+
+#: Controller/SpecialitiesController.php:120
+msgid "The speciality could not be deleted. Please, try again."
+msgstr "A especialidade não pode ser deletada."
+
+#: Controller/SpecialitiesMedicsController.php:112;113
+msgid "The specialities medic has been deleted."
+msgstr "A especialidade médica foi deletada."
+
+#: Controller/SpecialitiesMedicsController.php:115
+msgid "The specialities medic could not be deleted. Please, try again."
+msgstr "A especialidade médica não pode ser deletada."
+
+#: Controller/StatusSchedulesController.php:103;104
+msgid "The status schedule has been deleted."
+msgstr "O status de agendamento foi deletado."
+
+#: Controller/StatusSchedulesController.php:106
+msgid "The status schedule could not be deleted. Please, try again."
+msgstr "O status de agendamento não pode ser deletado."
+
+#: Controller/UsersController.php:108;109
+msgid "The user has been deleted."
+msgstr "O usuário foi deletado."
+
+#: Controller/UsersController.php:111
+msgid "The user could not be deleted. Please, try again."
+msgstr "O usuário não pode ser deletado."
+
+#: Controller/UsersController.php:129
+msgid "Username or password is incorrect"
+msgstr "Usuário ou senha inválido."
+
+#: Template/Costs/add.ctp:11
+#: Template/Groups/add.ctp:11
+#: Template/Logs/add.ctp:11
+#: Template/Medics/add.ctp:11;109
+#: Template/Medics/edit.ctp:110
+#: Template/Movimentations/add.ctp:11
+#: Template/MovimentationsProducts/add.ctp:11
+#: Template/Patients/add.ctp:11
+#: Template/PaymentMethods/add.ctp:11
+#: Template/Plans/add.ctp:11
+#: Template/Products/add.ctp:11
+#: Template/Reports/add.ctp:11
+#: Template/Roles/add.ctp:11
+#: Template/Schedules/add.ctp:11
+#: Template/SchedulesSpecialitiesMedics/add.ctp:11
+#: Template/Specialities/add.ctp:11
+#: Template/SpecialitiesMedics/add.ctp:11
+#: Template/StatusSchedules/add.ctp:11
+#: Template/Users/add.ctp:11
+msgid "Add"
+msgstr "Adicionar"
+
+#: Template/Costs/add.ctp:15
+#: Template/Costs/edit.ctp:15
+#: Template/Costs/view.ctp:7
+#: Template/Groups/add.ctp:15
+#: Template/Groups/edit.ctp:15
+#: Template/Groups/view.ctp:7
+#: Template/Logs/add.ctp:15
+#: Template/Logs/edit.ctp:15
+#: Template/Logs/view.ctp:7
+#: Template/Medics/edit.ctp:15
+#: Template/Medics/view.ctp:7
+#: Template/Movimentations/add.ctp:15
+#: Template/Movimentations/edit.ctp:15
+#: Template/Movimentations/view.ctp:7
+#: Template/MovimentationsProducts/add.ctp:15
+#: Template/MovimentationsProducts/edit.ctp:15
+#: Template/MovimentationsProducts/view.ctp:7
+#: Template/Patients/add.ctp:15
+#: Template/Patients/edit.ctp:15
+#: Template/Patients/view.ctp:7
+#: Template/PaymentMethods/add.ctp:15
+#: Template/PaymentMethods/edit.ctp:15
+#: Template/PaymentMethods/view.ctp:7
+#: Template/Plans/add.ctp:15
+#: Template/Plans/edit.ctp:15
+#: Template/Plans/view.ctp:7
+#: Template/Products/add.ctp:15
+#: Template/Products/edit.ctp:15
+#: Template/Products/view.ctp:7
+#: Template/Reports/add.ctp:15
+#: Template/Reports/edit.ctp:15
+#: Template/Reports/view.ctp:7
+#: Template/Roles/add.ctp:15
+#: Template/Roles/edit.ctp:15
+#: Template/Roles/view.ctp:7
+#: Template/Schedules/add.ctp:15
+#: Template/Schedules/edit.ctp:15
+#: Template/Schedules/view.ctp:7
+#: Template/SchedulesSpecialitiesMedics/add.ctp:15
+#: Template/SchedulesSpecialitiesMedics/edit.ctp:15
+#: Template/SchedulesSpecialitiesMedics/view.ctp:7
+#: Template/Specialities/add.ctp:15
+#: Template/Specialities/edit.ctp:15
+#: Template/Specialities/view.ctp:7
+#: Template/SpecialitiesMedics/add.ctp:15
+#: Template/SpecialitiesMedics/edit.ctp:15
+#: Template/SpecialitiesMedics/view.ctp:7
+#: Template/StatusSchedules/add.ctp:15
+#: Template/StatusSchedules/edit.ctp:15
+#: Template/StatusSchedules/view.ctp:7
+#: Template/Users/add.ctp:15
+#: Template/Users/edit.ctp:15
+#: Template/Users/view.ctp:7
+#: View/Helper/HtmlHelper.php:815
+msgid "Home"
+msgstr "Início"
+
+#: Template/Costs/add.ctp:26
+#: Template/Costs/edit.ctp:26
+#: Template/Groups/add.ctp:26
+#: Template/Groups/edit.ctp:26
+#: Template/Logs/add.ctp:26
+#: Template/Logs/edit.ctp:26
+#: Template/Movimentations/add.ctp:26
+#: Template/Movimentations/edit.ctp:26
+#: Template/MovimentationsProducts/add.ctp:26
+#: Template/MovimentationsProducts/edit.ctp:26
+#: Template/PaymentMethods/add.ctp:26
+#: Template/PaymentMethods/edit.ctp:26
+#: Template/Plans/add.ctp:26
+#: Template/Plans/edit.ctp:26
+#: Template/Products/add.ctp:26
+#: Template/Products/edit.ctp:26
+#: Template/Reports/add.ctp:26
+#: Template/Reports/edit.ctp:26
+#: Template/Roles/add.ctp:26
+#: Template/Roles/edit.ctp:26
+#: Template/Schedules/add.ctp:26
+#: Template/Schedules/edit.ctp:26
+#: Template/SchedulesSpecialitiesMedics/add.ctp:26
+#: Template/SchedulesSpecialitiesMedics/edit.ctp:26
+#: Template/Specialities/add.ctp:26
+#: Template/Specialities/edit.ctp:26
+#: Template/SpecialitiesMedics/add.ctp:26
+#: Template/SpecialitiesMedics/edit.ctp:26
+#: Template/StatusSchedules/add.ctp:26
+#: Template/StatusSchedules/edit.ctp:26
+#: Template/Users/add.ctp:26
+#: Template/Users/edit.ctp:26
+msgid "Form"
+msgstr "Dados"
+
+#: Template/Costs/add.ctp:40
+#: Template/Costs/edit.ctp:41
+#: Template/Groups/add.ctp:38
+#: Template/Groups/edit.ctp:38
+#: Template/Logs/add.ctp:42
+#: Template/Logs/edit.ctp:42
+#: Template/Medics/add.ctp:134
+#: Template/Medics/edit.ctp:150
+#: Template/Movimentations/add.ctp:39
+#: Template/Movimentations/edit.ctp:39
+#: Template/MovimentationsProducts/add.ctp:40
+#: Template/MovimentationsProducts/edit.ctp:40
+#: Template/Patients/add.ctp:95
+#: Template/Patients/edit.ctp:96
+#: Template/PaymentMethods/add.ctp:44
+#: Template/PaymentMethods/edit.ctp:44
+#: Template/Plans/add.ctp:38
+#: Template/Plans/edit.ctp:38
+#: Template/Products/add.ctp:40
+#: Template/Products/edit.ctp:39
+#: Template/Reports/add.ctp:40
+#: Template/Reports/edit.ctp:40
+#: Template/Roles/add.ctp:38
+#: Template/Roles/edit.ctp:38
+#: Template/Schedules/add.ctp:42
+#: Template/Schedules/edit.ctp:42
+#: Template/SchedulesSpecialitiesMedics/add.ctp:41
+#: Template/SchedulesSpecialitiesMedics/edit.ctp:41
+#: Template/Specialities/add.ctp:41
+#: Template/Specialities/edit.ctp:41
+#: Template/SpecialitiesMedics/add.ctp:40
+#: Template/SpecialitiesMedics/edit.ctp:39
+#: Template/StatusSchedules/add.ctp:38
+#: Template/StatusSchedules/edit.ctp:38
+#: Template/Users/add.ctp:42
+#: Template/Users/edit.ctp:42
+#: View/Helper/FormHelper.php:1986
+msgid "Submit"
+msgstr "Salvar"
+
+#: Template/Costs/edit.ctp:11
+#: Template/Costs/index.ctp:57
+#: Template/Groups/edit.ctp:11
+#: Template/Groups/index.ctp:51
+#: Template/Logs/edit.ctp:11
+#: Template/Medics/edit.ctp:11
+#: Template/Medics/index.ctp:55
+#: Template/Medics/view.ctp:79
+#: Template/Movimentations/edit.ctp:11
+#: Template/Movimentations/index.ctp:53
+#: Template/Movimentations/view.ctp:71
+#: Template/MovimentationsProducts/edit.ctp:11
+#: Template/MovimentationsProducts/index.ctp:53
+#: Template/Patients/edit.ctp:11
+#: Template/Patients/index.ctp:65
+#: Template/Patients/view.ctp:99
+#: Template/PaymentMethods/edit.ctp:11
+#: Template/PaymentMethods/index.ctp:55
+#: Template/Plans/edit.ctp:11
+#: Template/Plans/index.ctp:53
+#: Template/Plans/view.ctp:93
+#: Template/Products/edit.ctp:11
+#: Template/Products/index.ctp:53
+#: Template/Products/view.ctp:71
+#: Template/Reports/edit.ctp:11
+#: Template/Reports/index.ctp:61
+#: Template/Roles/edit.ctp:11
+#: Template/Roles/index.ctp:51
+#: Template/Schedules/edit.ctp:11
+#: Template/Schedules/index.ctp:63
+#: Template/Schedules/view.ctp:91
+#: Template/SchedulesSpecialitiesMedics/edit.ctp:11
+#: Template/SchedulesSpecialitiesMedics/index.ctp:73
+#: Template/SchedulesSpecialitiesMedics/view.ctp:85
+#: Template/Specialities/edit.ctp:11
+#: Template/Specialities/index.ctp:53
+#: Template/Specialities/view.ctp:79
+#: Template/SpecialitiesMedics/edit.ctp:11
+#: Template/SpecialitiesMedics/index.ctp:73
+#: Template/SpecialitiesMedics/view.ctp:95;140
+#: Template/StatusSchedules/edit.ctp:11
+#: Template/StatusSchedules/index.ctp:53
+#: Template/StatusSchedules/view.ctp:69
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:65
+#: Template/Users/view.ctp:77
+msgid "Edit"
+msgstr "Editar"
+
+#: Template/Costs/index.ctp:6
+#: Template/Groups/index.ctp:6
+#: Template/Logs/index.ctp:6
+#: Template/Medics/index.ctp:6
+#: Template/Movimentations/index.ctp:6
+#: Template/MovimentationsProducts/index.ctp:6
+#: Template/Patients/index.ctp:6
+#: Template/PaymentMethods/index.ctp:6
+#: Template/Plans/index.ctp:6
+#: Template/Products/index.ctp:6
+#: Template/Reports/index.ctp:6
+#: Template/Roles/index.ctp:6
+#: Template/Schedules/index.ctp:6
+#: Template/SchedulesSpecialitiesMedics/index.ctp:6
+#: Template/Specialities/index.ctp:6
+#: Template/SpecialitiesMedics/index.ctp:6
+#: Template/StatusSchedules/index.ctp:6
+#: Template/Users/index.ctp:6
+msgid "New"
+msgstr "Novo(a)"
+
+#: Template/Costs/index.ctp:18
+#: Template/Groups/index.ctp:18
+#: Template/Logs/index.ctp:18
+#: Template/Medics/index.ctp:18
+#: Template/Movimentations/index.ctp:18
+#: Template/MovimentationsProducts/index.ctp:18
+#: Template/Patients/index.ctp:18
+#: Template/PaymentMethods/index.ctp:18
+#: Template/Plans/index.ctp:18
+#: Template/Products/index.ctp:18
+#: Template/Reports/index.ctp:18
+#: Template/Roles/index.ctp:18
+#: Template/Schedules/index.ctp:18
+#: Template/SchedulesSpecialitiesMedics/index.ctp:18
+#: Template/Specialities/index.ctp:18
+#: Template/SpecialitiesMedics/index.ctp:18
+#: Template/StatusSchedules/index.ctp:18
+#: Template/Users/index.ctp:18
+msgid "List"
+msgstr "Listagem"
+
+#: Template/Costs/index.ctp:24
+#: Template/Groups/index.ctp:24
+#: Template/Logs/index.ctp:24
+#: Template/Medics/index.ctp:24
+#: Template/Movimentations/index.ctp:24
+#: Template/MovimentationsProducts/index.ctp:24
+#: Template/Patients/index.ctp:24
+#: Template/PaymentMethods/index.ctp:24
+#: Template/Plans/index.ctp:24
+#: Template/Products/index.ctp:24
+#: Template/Reports/index.ctp:24
+#: Template/Roles/index.ctp:24
+#: Template/Schedules/index.ctp:24
+#: Template/SchedulesSpecialitiesMedics/index.ctp:24
+#: Template/Specialities/index.ctp:24
+#: Template/SpecialitiesMedics/index.ctp:24
+#: Template/StatusSchedules/index.ctp:24
+#: Template/Users/index.ctp:24
+msgid "Search"
+msgstr "Procurar"
+
+#: Template/Costs/index.ctp:43
+#: Template/Groups/index.ctp:40
+#: Template/Logs/index.ctp:42
+#: Template/Medics/add.ctp:121
+#: Template/Medics/edit.ctp:122
+#: Template/Medics/index.ctp:42
+#: Template/Medics/view.ctp:67
+#: Template/Movimentations/index.ctp:41
+#: Template/Movimentations/view.ctp:59
+#: Template/MovimentationsProducts/index.ctp:41
+#: Template/Patients/index.ctp:44
+#: Template/Patients/view.ctp:84
+#: Template/PaymentMethods/index.ctp:42
+#: Template/Plans/index.ctp:41
+#: Template/Plans/view.ctp:70
+#: Template/Products/index.ctp:41
+#: Template/Products/view.ctp:59
+#: Template/Reports/index.ctp:42
+#: Template/Roles/index.ctp:40
+#: Template/Schedules/index.ctp:43
+#: Template/Schedules/view.ctp:78
+#: Template/SchedulesSpecialitiesMedics/index.ctp:42
+#: Template/SchedulesSpecialitiesMedics/view.ctp:71
+#: Template/Specialities/index.ctp:41
+#: Template/Specialities/view.ctp:63
+#: Template/SpecialitiesMedics/index.ctp:45
+#: Template/SpecialitiesMedics/view.ctp:80;126
+#: Template/StatusSchedules/index.ctp:41
+#: Template/StatusSchedules/view.ctp:58
+#: Template/Users/index.ctp:44
+#: Template/Users/view.ctp:64
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Costs/index.ctp:55
+#: Template/Costs/view.ctp:4
+#: Template/Groups/index.ctp:49
+#: Template/Groups/view.ctp:4
+#: Template/Logs/index.ctp:59
+#: Template/Logs/view.ctp:4
+#: Template/Medics/index.ctp:53
+#: Template/Medics/view.ctp:4;78
+#: Template/Movimentations/index.ctp:51
+#: Template/Movimentations/view.ctp:4;70
+#: Template/MovimentationsProducts/index.ctp:51
+#: Template/MovimentationsProducts/view.ctp:4
+#: Template/Patients/index.ctp:63
+#: Template/Patients/view.ctp:4;98
+#: Template/PaymentMethods/index.ctp:53
+#: Template/PaymentMethods/view.ctp:4
+#: Template/Plans/index.ctp:51
+#: Template/Plans/view.ctp:4;92
+#: Template/Products/index.ctp:51
+#: Template/Products/view.ctp:4;70
+#: Template/Reports/index.ctp:59
+#: Template/Reports/view.ctp:4
+#: Template/Roles/index.ctp:49
+#: Template/Roles/view.ctp:4
+#: Template/Schedules/index.ctp:61
+#: Template/Schedules/view.ctp:4;90
+#: Template/SchedulesSpecialitiesMedics/index.ctp:71
+#: Template/SchedulesSpecialitiesMedics/view.ctp:4;84
+#: Template/Specialities/index.ctp:51
+#: Template/Specialities/view.ctp:4;78
+#: Template/SpecialitiesMedics/index.ctp:71
+#: Template/SpecialitiesMedics/view.ctp:4;94;139
+#: Template/StatusSchedules/index.ctp:51
+#: Template/StatusSchedules/view.ctp:4;68
+#: Template/Users/index.ctp:63
+#: Template/Users/view.ctp:4;76
+#: View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr "Visualizar"
+
+#: Template/Costs/index.ctp:59
+#: Template/Groups/index.ctp:53
+#: Template/Medics/index.ctp:57
+#: Template/Medics/view.ctp:80
+#: Template/Movimentations/index.ctp:55
+#: Template/Movimentations/view.ctp:72
+#: Template/MovimentationsProducts/index.ctp:55
+#: Template/Patients/index.ctp:67
+#: Template/Patients/view.ctp:100
+#: Template/PaymentMethods/index.ctp:57
+#: Template/Plans/index.ctp:55
+#: Template/Plans/view.ctp:94
+#: Template/Products/index.ctp:55
+#: Template/Products/view.ctp:72
+#: Template/Reports/index.ctp:63
+#: Template/Roles/index.ctp:53
+#: Template/Schedules/index.ctp:65
+#: Template/Schedules/view.ctp:92
+#: Template/SchedulesSpecialitiesMedics/index.ctp:75
+#: Template/SchedulesSpecialitiesMedics/view.ctp:86
+#: Template/Specialities/index.ctp:55
+#: Template/Specialities/view.ctp:80
+#: Template/SpecialitiesMedics/index.ctp:75
+#: Template/SpecialitiesMedics/view.ctp:96;141
+#: Template/StatusSchedules/index.ctp:55
+#: Template/StatusSchedules/view.ctp:70
+#: Template/Users/index.ctp:67
+#: Template/Users/view.ctp:78
+msgid "Delete"
+msgstr "Deletar"
+
+#: Template/Costs/index.ctp:60
+#: Template/Groups/index.ctp:54
+#: Template/Medics/index.ctp:58
+#: Template/Medics/view.ctp:80
+#: Template/Movimentations/index.ctp:56
+#: Template/Movimentations/view.ctp:72
+#: Template/MovimentationsProducts/index.ctp:56
+#: Template/Patients/index.ctp:68
+#: Template/Patients/view.ctp:100
+#: Template/PaymentMethods/index.ctp:58
+#: Template/Plans/index.ctp:56
+#: Template/Plans/view.ctp:94
+#: Template/Products/index.ctp:56
+#: Template/Products/view.ctp:72
+#: Template/Reports/index.ctp:64
+#: Template/Roles/index.ctp:54
+#: Template/Schedules/index.ctp:66
+#: Template/Schedules/view.ctp:92
+#: Template/SchedulesSpecialitiesMedics/index.ctp:76
+#: Template/SchedulesSpecialitiesMedics/view.ctp:86
+#: Template/Specialities/index.ctp:56
+#: Template/Specialities/view.ctp:80
+#: Template/SpecialitiesMedics/index.ctp:76
+#: Template/SpecialitiesMedics/view.ctp:96;141
+#: Template/StatusSchedules/index.ctp:56
+#: Template/StatusSchedules/view.ctp:70
+#: Template/Users/index.ctp:68
+#: Template/Users/view.ctp:78
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem certeza que deseja deletar # {0}?"
+
+#: Template/Costs/index.ctp:75
+#: Template/Logs/index.ctp:74
+#: Template/Medics/index.ctp:73
+#: Template/Patients/index.ctp:83
+#: Template/Specialities/index.ctp:71
+msgid "first"
+msgstr "Primeiro"
+
+#: Template/Costs/index.ctp:76
+#: Template/Logs/index.ctp:75
+#: Template/Medics/index.ctp:74
+#: Template/Patients/index.ctp:84
+#: Template/Specialities/index.ctp:72
+msgid "previous"
+msgstr "Anterior"
+
+#: Template/Costs/index.ctp:78
+#: Template/Logs/index.ctp:77
+#: Template/Medics/index.ctp:76
+#: Template/Patients/index.ctp:86
+#: Template/Specialities/index.ctp:74
+msgid "next"
+msgstr "Próximo"
+
+#: Template/Costs/index.ctp:79
+#: Template/Logs/index.ctp:78
+#: Template/Medics/index.ctp:77
+#: Template/Patients/index.ctp:87
+#: Template/Specialities/index.ctp:75
+msgid "last"
+msgstr "Último"
+
+#: Template/Costs/view.ctp:18
+#: Template/Groups/view.ctp:18
+#: Template/Logs/view.ctp:18
+#: Template/Medics/view.ctp:18
+#: Template/Movimentations/view.ctp:18
+#: Template/MovimentationsProducts/view.ctp:18
+#: Template/Patients/view.ctp:18
+#: Template/PaymentMethods/view.ctp:18
+#: Template/Plans/view.ctp:18
+#: Template/Products/view.ctp:18
+#: Template/Reports/view.ctp:18
+#: Template/Roles/view.ctp:18
+#: Template/Schedules/view.ctp:18
+#: Template/SchedulesSpecialitiesMedics/view.ctp:18
+#: Template/Specialities/view.ctp:18
+#: Template/SpecialitiesMedics/view.ctp:18
+#: Template/StatusSchedules/view.ctp:18
+#: Template/Users/view.ctp:18
+msgid "Information"
+msgstr "Informação"
+
+#: Template/Costs/view.ctp:23
+#: Template/Groups/view.ctp:23
+#: Template/Medics/view.ctp:23;62
+#: Template/Movimentations/view.ctp:23;54
+#: Template/Patients/view.ctp:23
+#: Template/PaymentMethods/view.ctp:23
+#: Template/Plans/view.ctp:23;54
+#: Template/Products/view.ctp:23;54
+#: Template/Reports/view.ctp:23
+#: Template/SchedulesSpecialitiesMedics/view.ctp:64
+#: Template/Specialities/view.ctp:23;54
+#: Template/SpecialitiesMedics/view.ctp:119
+#: Template/StatusSchedules/view.ctp:23
+#: Template/Users/view.ctp:23
+msgid "Name"
+msgstr "Nome"
+
+#: Template/Costs/view.ctp:25
+#: Template/Medics/view.ctp:25;63
+#: Template/Movimentations/view.ctp:25;55
+#: Template/Patients/view.ctp:25;76
+#: Template/PaymentMethods/view.ctp:25
+#: Template/Plans/view.ctp:25;55
+#: Template/Products/view.ctp:25;55
+#: Template/Reports/view.ctp:25
+#: Template/Schedules/view.ctp:23
+#: Template/SchedulesSpecialitiesMedics/view.ctp:65
+#: Template/Specialities/view.ctp:25;55
+#: Template/SpecialitiesMedics/view.ctp:29;72;120
+#: Template/StatusSchedules/view.ctp:25
+msgid "Removed"
+msgstr "Removido"
+
+#: Template/Costs/view.ctp:27
+#: Template/Medics/view.ctp:27;64
+#: Template/Movimentations/view.ctp:27;56
+#: Template/Patients/view.ctp:27;77
+#: Template/PaymentMethods/view.ctp:27
+#: Template/Plans/view.ctp:27;56
+#: Template/Products/view.ctp:27;56
+#: Template/Reports/view.ctp:27
+#: Template/Schedules/view.ctp:25
+#: Template/SchedulesSpecialitiesMedics/view.ctp:66
+#: Template/Specialities/view.ctp:27;56
+#: Template/SpecialitiesMedics/view.ctp:73;121
+#: Template/StatusSchedules/view.ctp:27
+msgid "Active"
+msgstr "Ativo"
+
+#: Template/Costs/view.ctp:29
+#: Template/SchedulesSpecialitiesMedics/view.ctp:69
+msgid "Type"
+msgstr "Tipo"
+
+#: Template/Costs/view.ctp:31
+msgid "Schedules Specialities Medic"
+msgstr "Agenda de Especialidade Médica"
+
+#: Template/Costs/view.ctp:33
+#: Template/Groups/view.ctp:25
+#: Template/Logs/view.ctp:29
+#: Template/Medics/view.ctp:37;61
+#: Template/Movimentations/view.ctp:29;53
+#: Template/Patients/view.ctp:49;75
+#: Template/PaymentMethods/view.ctp:29
+#: Template/Plans/view.ctp:29;53
+#: Template/Products/view.ctp:29;53
+#: Template/Reports/view.ctp:31
+#: Template/Roles/view.ctp:25
+#: Template/Schedules/view.ctp:29;71
+#: Template/SchedulesSpecialitiesMedics/view.ctp:29;63
+#: Template/Specialities/view.ctp:29;53
+#: Template/SpecialitiesMedics/view.ctp:31;71;118
+#: Template/StatusSchedules/view.ctp:29;53
+#: Template/Users/view.ctp:33;57
+msgid "Id"
+msgstr "Id"
+
+#: Template/Costs/view.ctp:35
+#: Template/Patients/view.ctp:81
+#: Template/Schedules/view.ctp:31
+#: Template/SpecialitiesMedics/view.ctp:77
+msgid "Value"
+msgstr "Valor"
+
+#: Template/Costs/view.ctp:37
+#: Template/Groups/view.ctp:27
+#: Template/Logs/view.ctp:31
+#: Template/Medics/view.ctp:39;65
+#: Template/Movimentations/view.ctp:31;57
+#: Template/Patients/view.ctp:51;78
+#: Template/PaymentMethods/view.ctp:33
+#: Template/Plans/view.ctp:31;57
+#: Template/Products/view.ctp:31;57
+#: Template/Reports/view.ctp:33
+#: Template/Roles/view.ctp:27
+#: Template/Schedules/view.ctp:35
+#: Template/SchedulesSpecialitiesMedics/view.ctp:67
+#: Template/Specialities/view.ctp:31;57
+#: Template/SpecialitiesMedics/view.ctp:74;122
+#: Template/StatusSchedules/view.ctp:31
+#: Template/Users/view.ctp:35;58
+msgid "Created"
+msgstr "Criado"
+
+#: Template/Costs/view.ctp:39
+#: Template/Groups/view.ctp:29
+#: Template/Medics/view.ctp:41;66
+#: Template/Movimentations/view.ctp:33;58
+#: Template/Patients/view.ctp:53;79
+#: Template/PaymentMethods/view.ctp:35
+#: Template/Plans/view.ctp:33;58
+#: Template/Products/view.ctp:33;58
+#: Template/Reports/view.ctp:35
+#: Template/Roles/view.ctp:29
+#: Template/Schedules/view.ctp:37
+#: Template/SchedulesSpecialitiesMedics/view.ctp:68
+#: Template/Specialities/view.ctp:33;58
+#: Template/SpecialitiesMedics/view.ctp:75;123
+#: Template/StatusSchedules/view.ctp:33
+#: Template/Users/view.ctp:37
+msgid "Modified"
+msgstr "Modificado"
+
+#: Template/Layout/error.ctp:35
+#: Template/Error/error400.ctp:36
+#: Template/Error/error500.ctp:41
+msgid "Error"
+msgstr "Erro"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Voltar"
+
+#: Template/Layout/login.ctp:35
+#: Template/Plugin/AdminLTE/Layout/login.ctp:35
+msgid "Sign in to start your session"
+msgstr "Entre para iniciar sua Sessão"
+
+#: Template/Layout/login.ctp:45
+#: Template/Plugin/AdminLTE/Layout/login.ctp:45
+msgid "OR"
+msgstr "OU"
+
+#: Template/Layout/login.ctp:46
+#: Template/Plugin/AdminLTE/Layout/login.ctp:46
+msgid "Sign in using Facebook"
+msgstr "Entre usando o Facebook"
+
+#: Template/Layout/login.ctp:47
+#: Template/Plugin/AdminLTE/Layout/login.ctp:47
+msgid "Sign in using Google+"
+msgstr "Entre usando o Google+"
+
+#: Template/Layout/login.ctp:56
+#: Template/Plugin/AdminLTE/Layout/login.ctp:56
+msgid "I forgot my password"
+msgstr "Eu esqueci minha senha"
+
+#: Template/Layout/login.ctp:61
+#: Template/Plugin/AdminLTE/Layout/login.ctp:61
+msgid "Register a new membership"
+msgstr "Registrar um novo membro"
+
+#: Template/Logs/view.ctp:23
+#: Template/Users/view.ctp:59
+msgid "Level"
+msgstr "Level"
+
+#: Template/Logs/view.ctp:25
+#: Template/Users/view.ctp:60
+msgid "Scope"
+msgstr "Escopo"
+
+#: Template/Logs/view.ctp:27
+#: Template/Medics/add.ctp:65
+#: Template/Medics/edit.ctp:65
+msgid "User"
+msgstr "Usuário"
+
+#: Template/Logs/view.ctp:44
+#: Template/Users/view.ctp:62
+msgid "Message"
+msgstr "Mensagem"
+
+#: Template/Logs/view.ctp:58
+#: Template/Users/view.ctp:63
+msgid "Context"
+msgstr "Contexto"
+
+#: Template/Medics/add.ctp:15;86
+#: Template/Medics/edit.ctp:87
+#: Template/Medics/view.ctp:54
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:57
+msgid "Specialities"
+msgstr "Especialidades"
+
+#: Template/Medics/add.ctp:28
+#: Template/Medics/edit.ctp:28
+#: Template/Patients/add.ctp:28
+#: Template/Patients/edit.ctp:30
+msgid "Data"
+msgstr "Dados"
+
+#: Template/Medics/add.ctp:116
+#: Template/Medics/edit.ctp:117
+#: Template/SpecialitiesMedics/view.ctp:23
+msgid "Speciality"
+msgstr "Especialidade"
+
+#: Template/Medics/add.ctp:117
+#: Template/Medics/edit.ctp:118
+#: Template/Schedules/view.ctp:74
+#: Template/SpecialitiesMedics/view.ctp:33
+msgid "Value Medic"
+msgstr "Valor do Médico"
+
+#: Template/Medics/add.ctp:118
+#: Template/Medics/edit.ctp:119
+#: Template/Schedules/view.ctp:75
+#: Template/SpecialitiesMedics/view.ctp:35
+msgid "Value Clinic"
+msgstr "Valor da Clínica"
+
+#: Template/Medics/add.ctp:119
+#: Template/Medics/edit.ctp:120
+#: Template/Schedules/view.ctp:76
+#: Template/SpecialitiesMedics/view.ctp:27
+msgid "Time"
+msgstr "Tempo"
+
+#: Template/Medics/add.ctp:120
+#: Template/Medics/edit.ctp:121
+#: Template/Schedules/view.ctp:77
+#: Template/SpecialitiesMedics/view.ctp:37
+msgid "Value Percent"
+msgstr "Valor %"
+
+#: Template/Medics/view.ctp:29
+#: Template/Specialities/view.ctp:59
+msgid "Crm"
+msgstr "Crm"
+
+#: Template/Medics/view.ctp:31
+#: Template/Patients/view.ctp:31
+#: Template/Plans/view.ctp:61
+#: Template/Specialities/view.ctp:60
+msgid "Phone"
+msgstr "Telefone"
+
+#: Template/Medics/view.ctp:33
+#: Template/Patients/view.ctp:29
+#: Template/Plans/view.ctp:59
+#: Template/Specialities/view.ctp:61
+msgid "Cpf"
+msgstr "Cpf"
+
+#: Template/Medics/view.ctp:35
+#: Template/Specialities/view.ctp:62
+msgid "Sex"
+msgstr "Sexo"
+
+#: Template/Movimentations/view.ctp:46
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:63
+msgid "Products"
+msgstr "Produtos"
+
+#: Template/MovimentationsProducts/view.ctp:23
+msgid "Movimentation Id"
+msgstr "Id da Movimentação"
+
+#: Template/MovimentationsProducts/view.ctp:25
+msgid "Product Id"
+msgstr "Id do Produto"
+
+#: Template/MovimentationsProducts/view.ctp:27
+#: Template/PaymentMethods/view.ctp:31
+msgid "Qtd"
+msgstr "Qtd"
+
+#: Template/Pages/dashboard.ctp:24
+#: Template/Plans/view.ctp:46
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:5
+msgid "Patients"
+msgstr "Pacientes"
+
+#: Template/Patients/add.ctp:63
+#: Template/Patients/edit.ctp:65
+#: Template/Patients/view.ctp:35
+#: Template/Plans/view.ctp:63
+msgid "Address"
+msgstr "Endereço"
+
+#: Template/Patients/view.ctp:33
+#: Template/Plans/view.ctp:62
+msgid "Cep"
+msgstr "Cep"
+
+#: Template/Patients/view.ctp:37
+#: Template/Plans/view.ctp:64
+msgid "Neighborhood"
+msgstr "Bairro"
+
+#: Template/Patients/view.ctp:39
+#: Template/Plans/view.ctp:65
+msgid "City"
+msgstr "Cidade"
+
+#: Template/Patients/view.ctp:41
+#: Template/Plans/view.ctp:66
+msgid "Uf"
+msgstr "Uf"
+
+#: Template/Patients/view.ctp:43
+#: Template/Plans/view.ctp:67
+msgid "Complement"
+msgstr "Complemento"
+
+#: Template/Patients/view.ctp:45
+#: Template/Plans/view.ctp:68
+msgid "Number Plan"
+msgstr "Número do Plano"
+
+#: Template/Patients/view.ctp:47
+msgid "Plan"
+msgstr "Plano"
+
+#: Template/Patients/view.ctp:55
+#: Template/Plans/view.ctp:60
+msgid "Date Birth"
+msgstr "Data de Nascimento"
+
+#: Template/Patients/view.ctp:68
+#: Template/SpecialitiesMedics/view.ctp:64
+msgid "Schedules"
+msgstr "Agendas"
+
+#: Template/Patients/view.ctp:80
+#: Template/SpecialitiesMedics/view.ctp:76
+msgid "Patient Id"
+msgstr "Id do Paciente"
+
+#: Template/Patients/view.ctp:82
+#: Template/Schedules/view.ctp:50
+#: Template/SpecialitiesMedics/view.ctp:78
+msgid "Observation"
+msgstr "Observação"
+
+#: Template/Patients/view.ctp:83
+#: Template/Schedules/view.ctp:33
+#: Template/SpecialitiesMedics/view.ctp:79
+msgid "Payment Method Id"
+msgstr "Id do Método de Pagamento"
+
+#: Template/Plans/view.ctp:69
+msgid "Plan Id"
+msgstr "Id do Plano"
+
+#: Template/Plugin/AdminLTE/Element/Flash/default.ctp:4
+#: Template/Plugin/AdminLTE/Element/Flash/error.ctp:4
+#: Template/Plugin/AdminLTE/Element/Flash/success.ctp:4
+msgid "Alert"
+msgstr "Alerta"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:12
+#: Template/Specialities/view.ctp:46
+msgid "Medics"
+msgstr "Médicos"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:21
+msgid "Calls"
+msgstr "Atendimentos"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:29
+msgid "Finances"
+msgstr "Finanças"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:37
+#: Template/SchedulesSpecialitiesMedics/view.ctp:56
+msgid "Costs"
+msgstr "Custos"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:47
+msgid "Configurations"
+msgstr "Configurações"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:54
+msgid "Payment Methods"
+msgstr "Métodos de Pagamento"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:61
+msgid "Plans"
+msgstr "Planos"
+
+#: Template/Plugin/AdminLTE/Element/aside/sidebar-menu.ctp:65
+#: Template/Users/view.ctp:50
+msgid "Logs"
+msgstr "Logs"
+
+#: Template/Products/view.ctp:46
+msgid "Movimentations"
+msgstr "Movimentações"
+
+#: Template/Reports/view.ctp:29
+#: Template/SchedulesSpecialitiesMedics/view.ctp:25
+msgid "Specialities Medic"
+msgstr "Especialidades Médicas"
+
+#: Template/Reports/view.ctp:48
+#: Template/SpecialitiesMedics/view.ctp:124
+msgid "Description"
+msgstr "Descrição"
+
+#: Template/Roles/view.ctp:23
+#: Template/Users/view.ctp:31
+msgid "Role"
+msgstr "Regra"
+
+#: Template/Schedules/view.ctp:27
+msgid "Patient"
+msgstr "Paciente"
+
+#: Template/Schedules/view.ctp:64
+msgid "Specialities Medics"
+msgstr "Especialidades Médicas"
+
+#: Template/Schedules/view.ctp:72
+msgid "Speciality Id"
+msgstr "Id da Especialidade"
+
+#: Template/Schedules/view.ctp:73
+msgid "Medic Id"
+msgstr "Id do Médico"
+
+#: Template/SchedulesSpecialitiesMedics/view.ctp:23
+msgid "Schedule"
+msgstr "Agendamento"
+
+#: Template/SchedulesSpecialitiesMedics/view.ctp:27
+msgid "Status Schedule"
+msgstr "Status de Agendamento"
+
+#: Template/SchedulesSpecialitiesMedics/view.ctp:42
+#: Template/SpecialitiesMedics/view.ctp:50
+#: Template/StatusSchedules/view.ctp:56
+msgid "Report"
+msgstr "Laudo"
+
+#: Template/SchedulesSpecialitiesMedics/view.ctp:70
+msgid "Schedules Specialities Medic Id"
+msgstr "Id da Especialidade de Agendamento Médico"
+
+#: Template/SpecialitiesMedics/view.ctp:25
+msgid "Medic"
+msgstr "Médico"
+
+#: Template/SpecialitiesMedics/view.ctp:111
+msgid "Reports"
+msgstr "Laudos"
+
+#: Template/SpecialitiesMedics/view.ctp:125
+#: Template/StatusSchedules/view.ctp:55
+msgid "Specialities Medic Id"
+msgstr "Id da Especialidade Médica"
+
+#: Template/StatusSchedules/view.ctp:46
+msgid "Schedules Specialities Medics"
+msgstr "Agendamento das Especialidades Médicas"
+
+#: Template/StatusSchedules/view.ctp:54
+msgid "Schedule Id"
+msgstr "Id do Agendamento"
+
+#: Template/StatusSchedules/view.ctp:57
+msgid "Status Schedule Id"
+msgstr "Id do Status do Agendamento"
+
+#: Template/Users/login.ctp:9
+msgid "Login"
+msgstr "Entrar"
+
+#: Template/Users/view.ctp:25
+msgid "Username"
+msgstr "Usuário"
+
+#: Template/Users/view.ctp:27
+msgid "Email"
+msgstr "Email"
+
+#: Template/Users/view.ctp:29
+msgid "Password"
+msgstr "Senha"
+
+#: Template/Users/view.ctp:61
+msgid "User Id"
+msgstr "Id do Usuário"
+
+#: Template/Error/error400.ctp:37
+msgid "The requested address {0} was not found on this server."
+msgstr "O endereço {0} não foi encontrado no servidor."
+
+#: Template/Error/error500.ctp:39
+msgid "An Internal Error Has Occurred"
+msgstr "Um erro interno ocorreu"
+
+#: Controller/Component/AuthComponent.php:500
+msgid "You are not authorized to access that location."
+msgstr "Não Autorizado."
+
+#: Controller/Component/CsrfComponent.php:162
+#: Http/Middleware/CsrfProtectionMiddleware.php:190
+msgid "Missing CSRF token cookie"
+msgstr "Faltando cookie"
+
+#: Controller/Component/CsrfComponent.php:166
+#: Http/Middleware/CsrfProtectionMiddleware.php:194
+msgid "CSRF token mismatch."
+msgstr "Erro de CSRF MISMATCH"
+
+#: Error/ExceptionRenderer.php:262
+msgid "Not Found"
+msgstr "Não encontrado(a)"
+
+#: Error/ExceptionRenderer.php:264
+msgid "An Internal Error Has Occurred."
+msgstr "Um erro interno ocorreu."
+
+#: Http/Response.php:2603
+msgid "The requested file contains `..` and will not be read."
+msgstr "O arquivo requerido contem '..' e não pode ser lido."
+
+#: Http/Response.php:2624
+msgid "The requested file was not found"
+msgstr "O arquivo requerido não foi encontrado"
+
+#: I18n/Number.php:90
+msgid "{0,number,#,###.##} KB"
+msgstr ""
+
+#: I18n/Number.php:92
+msgid "{0,number,#,###.##} MB"
+msgstr ""
+
+#: I18n/Number.php:94
+msgid "{0,number,#,###.##} GB"
+msgstr ""
+
+#: I18n/Number.php:96
+msgid "{0,number,#,###.##} TB"
+msgstr ""
+
+#: I18n/Number.php:88
+msgid "{0,number,integer} Byte"
+msgid_plural "{0,number,integer} Bytes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} from now"
+msgstr "{0} de agora"
+
+#: I18n/RelativeTimeFormatter.php:80
+msgid "{0} ago"
+msgstr "{0} atrás"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} after"
+msgstr "{0} depois"
+
+#: I18n/RelativeTimeFormatter.php:83
+msgid "{0} before"
+msgstr "{0} antes"
+
+#: I18n/RelativeTimeFormatter.php:114
+msgid "just now"
+msgstr "agora"
+
+#: I18n/RelativeTimeFormatter.php:151
+msgid "about a second ago"
+msgstr "a um segundo atrás"
+
+#: I18n/RelativeTimeFormatter.php:152
+msgid "about a minute ago"
+msgstr "a um minuto atrás"
+
+#: I18n/RelativeTimeFormatter.php:153
+msgid "about an hour ago"
+msgstr "a uma hora atrás"
+
+#: I18n/RelativeTimeFormatter.php:154;332
+msgid "about a day ago"
+msgstr "a um dia atrás"
+
+#: I18n/RelativeTimeFormatter.php:155;333
+msgid "about a week ago"
+msgstr "a uma semana atrás"
+
+#: I18n/RelativeTimeFormatter.php:156;334
+msgid "about a month ago"
+msgstr "a um mês atrás"
+
+#: I18n/RelativeTimeFormatter.php:157;335
+msgid "about a year ago"
+msgstr "a um ano atrás"
+
+#: I18n/RelativeTimeFormatter.php:168
+msgid "in about a second"
+msgstr "mais ou menos a um segundo"
+
+#: I18n/RelativeTimeFormatter.php:169
+msgid "in about a minute"
+msgstr "mais ou menos em um minuto"
+
+#: I18n/RelativeTimeFormatter.php:170
+msgid "in about an hour"
+msgstr "mais ou menos em uma hora"
+
+#: I18n/RelativeTimeFormatter.php:171;346
+msgid "in about a day"
+msgstr "mais ou menos em um dia"
+
+#: I18n/RelativeTimeFormatter.php:172;347
+msgid "in about a week"
+msgstr "mais ou menos em uma semana"
+
+#: I18n/RelativeTimeFormatter.php:173;348
+msgid "in about a month"
+msgstr "mais ou menos em um mês"
+
+#: I18n/RelativeTimeFormatter.php:174;349
+msgid "in about a year"
+msgstr "mais ou menos em um ano"
+
+#: I18n/RelativeTimeFormatter.php:304
+msgid "today"
+msgstr "hoje"
+
+#: I18n/RelativeTimeFormatter.php:370
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: I18n/RelativeTimeFormatter.php:371
+msgid "on %s"
+msgstr "em %s"
+
+#: I18n/RelativeTimeFormatter.php:47;126;316
+msgid "{0} year"
+msgid_plural "{0} years"
+msgstr[0] "{0} ano"
+msgstr[1] "{0} anos"
+
+#: I18n/RelativeTimeFormatter.php:51;129;319
+msgid "{0} month"
+msgid_plural "{0} months"
+msgstr[0] "{0} mês"
+msgstr[1] "{0} meses"
+
+#: I18n/RelativeTimeFormatter.php:57;132;322
+msgid "{0} week"
+msgid_plural "{0} weeks"
+msgstr[0] "{0} semana"
+msgstr[1] "{0} semanas"
+
+#: I18n/RelativeTimeFormatter.php:59;135;325
+msgid "{0} day"
+msgid_plural "{0} days"
+msgstr[0] "{0} dia"
+msgstr[1] "{0} dias"
+
+#: I18n/RelativeTimeFormatter.php:64;138
+msgid "{0} hour"
+msgid_plural "{0} hours"
+msgstr[0] "{0} hora"
+msgstr[1] "{0} horas"
+
+#: I18n/RelativeTimeFormatter.php:68;141
+msgid "{0} minute"
+msgid_plural "{0} minutes"
+msgstr[0] "{0} minuto"
+msgstr[1] "{0} minutos"
+
+#: I18n/RelativeTimeFormatter.php:72;144
+msgid "{0} second"
+msgid_plural "{0} seconds"
+msgstr[0] "{0} segundo"
+msgstr[1] "{0} segundos"
+
+#: ORM/RulesChecker.php:57
+msgid "This value is already in use"
+msgstr "O valor já esta em uso"
+
+#: ORM/RulesChecker.php:104
+msgid "This value does not exist"
+msgstr "O valor não existe"
+
+#: ORM/RulesChecker.php:128
+msgid "The count does not match {0}{1}"
+msgstr ""
+
+#: Utility/Text.php:917
+msgid "and"
+msgstr "e"
+
+#: Validation/Validator.php:111
+msgid "This field is required"
+msgstr "Esse campo é obrigatório"
+
+#: Validation/Validator.php:112
+msgid "This field cannot be left empty"
+msgstr "Esse campo não pode ser vazio"
+
+#: Validation/Validator.php:2054
+msgid "The provided value is invalid"
+msgstr "O valor enviado esta inválido"
+
+#: View/Helper/FormHelper.php:1097
+msgid "Edit {0}"
+msgstr "Editar {0}"
+
+#: View/Helper/FormHelper.php:1099
+msgid "New {0}"
+msgstr "Novo(a) {0}"
+
+#: View/Widget/DateTimeWidget.php:540
+msgid "January"
+msgstr "Janeiro"
+
+#: View/Widget/DateTimeWidget.php:541
+msgid "February"
+msgstr "Fevereiro"
+
+#: View/Widget/DateTimeWidget.php:542
+msgid "March"
+msgstr "Março"
+
+#: View/Widget/DateTimeWidget.php:543
+msgid "April"
+msgstr "Abril"
+
+#: View/Widget/DateTimeWidget.php:544
+msgid "May"
+msgstr "Maio"
+
+#: View/Widget/DateTimeWidget.php:545
+msgid "June"
+msgstr "Junho"
+
+#: View/Widget/DateTimeWidget.php:546
+msgid "July"
+msgstr "Julho"
+
+#: View/Widget/DateTimeWidget.php:547
+msgid "August"
+msgstr "Agosto"
+
+#: View/Widget/DateTimeWidget.php:548
+msgid "September"
+msgstr "Setembro"
+
+#: View/Widget/DateTimeWidget.php:549
+msgid "October"
+msgstr "Outubro"
+
+#: View/Widget/DateTimeWidget.php:550
+msgid "November"
+msgstr "Novembro"
+
+#: View/Widget/DateTimeWidget.php:551
+msgid "December"
+msgstr "Dezembro"
+
+msgid "Payment Method"
+msgstr "Método de Pagamento"
+
+msgid "payment_method_id"
+msgstr "Método de Pagamento"
